@@ -4,7 +4,7 @@ h6 {
     font-weight: 700;
 }
 
-h3 {
+h5 {
     font-family: "Lexend", sans-serif;
     color: #1679AB;
     font-weight: 700;
@@ -13,8 +13,8 @@ h3 {
 .grey-box {
     background-color: #D8D9DA;
     height: 190px;
-    width: 190px;
-    margin: 18px 0;
+    width: 100%;
+    margin: 18px 12px;
 }
 
 /* centring the grey box inside the header */
@@ -32,7 +32,6 @@ h3 {
 .card {
     width: 17rem;
     margin: 2%;
-
 }
 
 .percentage {
