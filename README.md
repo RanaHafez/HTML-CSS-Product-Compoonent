@@ -1,5 +1,6 @@
 # Creation of CSS and HTML Component (upwork task)
 
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 the task was to create an html component that matches the design of the figma file.
 
 the desired outcome and my coding outcome
@@ -10,6 +11,6 @@ the desired outcome and my coding outcome
 </div>
 
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
 Rana (2024)
