@@ -1,0 +1,86 @@
+h6 {
+    color: red;
+    font-family: "Lexend", sans-serif;
+    font-weight: 700;
+}
+
+h3 {
+    font-family: "Lexend", sans-serif;
+    color: #1679AB;
+    font-weight: 700;
+}
+
+.grey-box {
+    background-color: #D8D9DA;
+    height: 190px;
+    width: 190px;
+    margin: 18px 0;
+}
+
+/* centring the grey box inside the header */
+.card-header{
+    display: flex; /* Use flexbox layout */
+    justify-content: center; /* Center the child horizontally */
+    align-items: center; /* Center the child vertically */ 
+}
+
+.card-body {
+    margin-top: 10px;
+    line-height: 1rem;
+}
+
+.card {
+    width: 17rem;
+    margin: 2%;
+
+}
+
+.percentage {
+    background-color: red;
+    color: white;
+    border-radius: 25px;
+    padding: 5px 10px;
+    font-family: "Lexend", sans-serif;
+    font-size: 15px;
+    font-weight: 500;
+}
+.container {
+    display: flex;
+    align-items: center; 
+    gap: 10px; 
+    margin: 0;
+}
+
+.price {
+    color: black;
+    /* margin-left: 20px; */
+    font-family: "Lexend", sans-serif;
+    font-weight: 700;
+    font-size: 1.5rem;
+}
+
+.crossed-price {
+    color: #7D7C7C;
+    font-family: "Lexend", sans-serif;
+    font-weight: 700;
+    font-size: 1.5rem;
+    text-decoration: line-through;
+}
+
+.btn {
+    width: 100%;
+    font-family: "Lexend", sans-serif;
+    background-color: #191717;
+    border-radius: 10px;
+}
+
+.two-line-text {
+    /* Limit text to 2 lines */
+    color: #7D7C7C;
+    line-height: 1rem;
+    max-height: calc(2 * 1.001rem);
+    overflow: hidden;
+    text-overflow: ellipsis; 
+    font-family: "Lexend", sans-serif;
+    font-weight: 500;
+}
